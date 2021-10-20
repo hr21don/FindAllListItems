@@ -2,8 +2,8 @@
 Write a python function to index all items in a list. 
 
 ## Input
-List to search + value to search for! 
+ It should accept two input parameters; the list to search and the value you're searching for. 
 
 ## Output
-list of indices 
+The output should be a list of indices, each represented by a list of numbers.
 
